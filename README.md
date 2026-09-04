@@ -1,6 +1,6 @@
-# DemoURL
+# ShortUrl/Link
 
-DemoURL is a Java Spring Boot-based URL shortening application that converts long URLs into short, shareable links and tracks link performance. It supports custom aliases, expiration, deactivation, and analytics for monitoring clicks.
+ShortLink is a Java Spring Boot-based URL shortening application that converts long URLs into short, shareable links and tracks link performance. It supports custom aliases, expiration, deactivation, and analytics for monitoring clicks.
 
 ## Features
 
