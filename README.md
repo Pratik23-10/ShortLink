@@ -22,6 +22,9 @@ ShortLink is a Java Spring Boot-based URL shortening application that converts l
 ## Image of the website 
 ![alt text](image.png)
 
+## Demo Video of the Website
+<video controls src="20260905-1811-15.2128635.mp4" title="Title"></video>
+
 ## Tech Stack
 
 - Java 25
