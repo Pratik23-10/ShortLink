@@ -125,3 +125,6 @@ mvnw.cmd spring-boot:run
 ## License
 
 This project is for educational and portfolio use.
+
+## Image of thre website 
+![alt text](image.png)
