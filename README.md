@@ -19,6 +19,12 @@ ShortLink is a Java Spring Boot-based URL shortening application that converts l
 - In-memory caching for faster lookup of active links
 - Asynchronous click logging for improved performance
 
+## Image of the website 
+![ShortLink Home Page](image.png)
+
+## Demo Video of the Website 
+<video controls src="20260905-1811-15.2128635.mp4" title="Title"></video>
+
 ## Tech Stack
 
 - Java 25
@@ -127,4 +133,4 @@ mvnw.cmd spring-boot:run
 This project is for educational and portfolio use.
 
 ## Image of thre website 
-![alt text](image.png)
+![ShortLink Home Page](image.png)
