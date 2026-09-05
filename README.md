@@ -126,5 +126,5 @@ mvnw.cmd spring-boot:run
 
 This project is for educational and portfolio use.
 
-## Image of thre website 
+## Image of the website 
 ![alt text](image.png)
