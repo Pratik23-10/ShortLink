@@ -1,4 +1,4 @@
-package com.pratik.demourl;
+package com.pratik.demourl.Controller;
 
 import java.time.Instant;
 import java.util.Map;
@@ -14,6 +14,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.pratik.demourl.Model.LinkRecord;
+import com.pratik.demourl.Service.ShortUrlService;
 
 @RestController
 public class ShortUrlController {

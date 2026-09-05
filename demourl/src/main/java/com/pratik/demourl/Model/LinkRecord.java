@@ -1,4 +1,4 @@
-package com.pratik.demourl;
+package com.pratik.demourl.Model;
 
 import java.time.Instant;
 

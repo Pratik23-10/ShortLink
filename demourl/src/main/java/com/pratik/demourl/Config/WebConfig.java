@@ -1,4 +1,4 @@
-package com.pratik.demourl;
+package com.pratik.demourl.Config;
 
 import java.util.concurrent.Executor;
 

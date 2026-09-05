@@ -1,4 +1,4 @@
-package com.pratik.demourl;
+package com.pratik.demourl.Service;
 
 import java.net.URI;
 import java.time.Instant;
@@ -12,6 +12,11 @@ import java.util.stream.Collectors;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import com.pratik.demourl.Model.ClickEvent;
+import com.pratik.demourl.Model.LinkRecord;
+import com.pratik.demourl.Repository.ClickEventRepository;
+import com.pratik.demourl.Repository.LinkRecordRepository;
 
 @Service
 public class ShortUrlService {
