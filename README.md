@@ -19,11 +19,8 @@ ShortLink is a Java Spring Boot-based URL shortening application that converts l
 - In-memory caching for faster lookup of active links
 - Asynchronous click logging for improved performance
 
-## Image of the website 
+## Image of the website
 ![ShortLink Home Page](image.png)
-
-## Demo Video of the Website 
-<video controls src="20260905-1811-15.2128635.mp4" title="Title"></video>
 
 ## Tech Stack
 
@@ -107,18 +104,6 @@ The project demonstrates several practical backend optimization ideas:
 
 Update database configuration in `src/main/resources/application.properties` with your PostgreSQL credentials.
 
-### Run the application
-
-```bash
-./mvnw spring-boot:run
-```
-
-Or on Windows:
-
-```bash
-mvnw.cmd spring-boot:run
-```
-
 ## Future Improvements
 
 - Add user authentication and dashboard
@@ -131,6 +116,3 @@ mvnw.cmd spring-boot:run
 ## License
 
 This project is for educational and portfolio use.
-
-## Image of thre website 
-![ShortLink Home Page](image.png)
